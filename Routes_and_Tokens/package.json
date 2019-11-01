@@ -1,0 +1,24 @@
+{
+  "name": "dbox-backend",
+  "version": "1.0.0",
+  "description": "vubble discoverybox backend",
+  "main": "DBoxSrv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://AndreVR@bitbucket.org/vubble/dbox-backend.git"
+  },
+  "author": "andre rosa",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/vubble/dbox-backend#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "config": "^3.2.4",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.7.7"
+  }
+}

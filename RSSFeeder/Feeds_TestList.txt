@@ -1,0 +1,18 @@
+[http://jdbcdps.blogspot.com/feeds/posts/default]
+name=Julia Vasserman
+
+
+[https://npolugari.wordpress.com/feed/]
+name=Nagashashank
+
+
+[http://feeds.feedburner.com/lsblakk_open-source]
+name=Lukas Blakk (lsblakk)
+
+
+[https://medium.com/feed/@aqeelparpia/]
+name=Aqeel Parpia
+
+# [http://www.elliotmaude.com/category/spo600/feed]
+[http://england.cdot.systems/elliot-maude-mirror/index.xml]
+name=Elliot Maude
